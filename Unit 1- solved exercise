@@ -1,0 +1,31 @@
+[A] Which of the following are invalid variable names and why? 
+ 
+BASICSALARY = Valid
+
+_basic = valid
+
+basic-hra = invalid as other special symbols are not allowed other than underscore
+
+#MEAN = invalied as other special symbols are not allowed other than underscore
+
+group. = invalid as other special symbols are not allowed other than underscore
+
+422 = invalid as number can never be a variable name.
+
+population in 2006 = invalid as no spaces are allowed in variable name.
+
+over time = invalid as no spaces are allowed in variable name.
+
+mindovermatter = Valid
+
+FLOAT = Keyword cannot be a variable name
+
+hELLO = Valid
+
+queue. = Keyword cannot be a variable name
+
+team’svictory = invalid as other special symbols are not allowed other than underscore
+
+Plot # 3 = invalid as other special symbols are not allowed other than underscore and also the spaces are not allowed
+
+2015_DDay = valid
