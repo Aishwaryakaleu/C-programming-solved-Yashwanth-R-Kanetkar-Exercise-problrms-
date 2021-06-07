@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+int p, t;
+float r, si;
+
+
+printf ( "Enter values of p = ");
+scanf("%d", &p);
+printf ( "Enter values of t = ");
+scanf("%d", &t);
+printf ( "Enter values of r = ");
+scanf("%f", &r);
+si = p*t*r/100;
+
+printf("Simple interest = %float",si);
+return 0;
+}
