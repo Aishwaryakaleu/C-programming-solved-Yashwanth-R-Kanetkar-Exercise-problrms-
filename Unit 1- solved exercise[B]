@@ -1,0 +1,28 @@
+[B] Point out the errors, if any, in the following C statements
+
+(a) int = 314.562 * 150 ; = C keyword is used as variable name. 
+
+(b) name = ‘Ajay’ ; = Char can only store 1 character.Also only single sided single quotes are used to enclose char.
+
+(c) varchar = ‘3’ ; = only single sided single quotes are used to enclose char.
+
+(d) 3.14 * r * r * h = vol_of_cyl ; = One and only one variable can be at the left side of an expression.
+
+(e) k = ( a * b ) ( c + ( 2.5a + b ) ( d + e ) ; = It is assumed that arithmetic operators (*) are already present. When they are not
+
+(f) m_inst = rate of interest * amount in rs ; = No spaces are allowed in c variable names.
+
+(g) si = principal * rateofinterest * numberofyears / 100 ; = No error 
+
+(h) area = 3.14 * r ** 2 ; = (*) is repeated      
+
+(i) volume = 3.14 * r ^ 2 * h ; = There is no exponential operator in C.
+
+(j) k = ( (a * b ) + c ) ( 2.5 * a + b ) ; = A single variable can not store more than one values.
+
+(k) a = b = 3 = 4 ; = A single variable can not store more than one values.
+
+(l) count = count + 1 ; = No error
+
+(m) date = '2 Mar 04' ; = Char can only hold a single character.
+ 
